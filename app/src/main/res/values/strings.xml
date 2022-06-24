@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase  Demo</string>
+    <string name="login_here">Already Register ? Login Here</string>
+    <string name="new_project">Create New Project</string>
+    <string name="new_account">Create a New Account</string>
+    <string name="sign_in">sign in to move next activity.</string>
+    <string name="client_id">387128153732-1dfiorjbfnrcq33md5dqfem77kfbc2i2.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
